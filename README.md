@@ -45,7 +45,6 @@ This repository contains my final deliverables for the CSE0001 - Digital Literac
 
 ## 📜 Final Project Report
 The complete written report, including all technical observations and personal reflections, is available in the report folder.
-File: report/Project_Report.pdf
 
 ---
 
